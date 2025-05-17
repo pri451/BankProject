@@ -1,0 +1,16 @@
+{
+  "name": "bankproject",
+  "version": "1.0.0",
+  "description": "A CLI-based banking app that allows transactions, interest rules, and statement generation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Priti Deshpande",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
